@@ -274,3 +274,51 @@ Le soglie numeriche vanno concordate dopo aver scelto il pubblico del test e la 
 ### Conclusione
 
 **Goblin Warlord merita un prototipo.** La sua idea più forte è che ogni vittoria cambi ciò che l'orda può diventare, mentre il giocatore decide quale strada di conquista seguire. La sua idea più fragile è l'autobattler: deve garantire preparazione leggibile, contromisure e agency senza trasformarsi in microgestione. Se il primo test dimostra che composizione, mappa e assimilazione si influenzano a vicenda, il progetto avrà una base solida per crescere; se non lo dimostra, è meglio correggere il loop prima di espandere ambientazioni e contenuti.
+
+### Risposta alle domande
+La reward sono divise fra specie e job, ogni incontro da un po' di una e dell'altra a dipendenza di cosa stai combattendo contro. Più l'incontro è difficile, più unità si affrontano, più guadagno di quelli.
+Ci devono essere diverse specie e diversi job come in una partita di D&D. La dimensione del roaster direi che è di 5 personaggi massimo, ma si parte con 1 o 2 massime unità base. una scelta a dispendenza di che warlord hai scelto inizialmente. 
+nell'auto battle i giocatori non hanno intervento, semplicemente devono comporre il team in un certo ordine per far si che le loro abilità vengano attivate in un certo ordine. tipo l'ordine in cui metti i personaggi è l'ordine delle abilità.
+vittoria è la conquista della capitale, che magari sarà alla fine dei 3 atti interi, come in slay the spire, con un boss finale. 
+la sconfitta comporta la perdita della run e il bisogno di ricominciare, tuttavia si avranno sbloccate nuove possibilità, passive, classi di partenza magari o piccoli bonus che rendono le run successive con più scelte.
+magari a ogni goblin si può equipaggiare un arma, un armatura e un oggetto speciale. O si possono personalizzare con dei talenti che si possono sbloccare solo giocando più volte. 
+una campagna è il mondo intero da conquistare. Al momento farei che è tipo un unica marcia verso la capitale, battaglia dopo battaglia. Le informazionni che vede il giocatore prima sono i tipi di nodi nei quali può andare, come in slay the spire.
+vorrei che ci fossero di battaglia, battaglia elite, eventi casuali, accampamenti per riposarsi o potenziare le unità, luoghi dove crearne di nuove, mercanti e la battaglia boss. Gli sblocchi aggiungono principalmente opzioni che potrebbero essere migliori. o sblocchi di talenti / oggetti da equipaggiarsi nuovi. 
+10. Quanto spesso il giocatore può cambiare roster e formazione?
+Prima di ogni auto battaglia possono cambiare il roster come preferiscono. quando clicci su un blocco battaglia, puoi gestirti come meglio credi il party prima di mandarlo a combattere premendo "start battaglia"
+11. Che funzione hanno provviste, tesoro e influenza? È possibile ridurre il numero di risorse?
+provviste servono per far guarire il party tra battaglia e battaglia, altrimenti rimane con i danni correnti. 
+Tesoro serve a fare scambi con mercante o eventi che ti chiedono di sacrificarlo.
+Influenza serve per gli eventi e la quantità di goblin forti che controlli? magari questa è da rimuovere. 
+12. Le unità sono individui con identità/ferite o elementi fungibili di una riserva?
+Le unità sono individui con job e razza (madre) come eredità. Hanno vita, attacco, difesa e i 3 slot oggetti (arma, speciale, armatura). che possono essere cambiati, ma solo se gli dai qualcosa di migliore perchè sono molto possessivi. 
+
+13. "Assimilare" significa integrazione nell'orda, reclutamento forzato, sottomissione o appropriazione culturale? Il gioco può offrire più letture, ma deve comunicare cosa avviene in termini di storia e regole.
+Assimilare nell'orda è un reclutamento forzato, non viene mostrato il come, solo che si sbloccano le nuove "conoscenze". sarebbe come un imparare, ma i goblin nuovi possono ereditare anche parte delle peciliarità della razza madre. Non viene mostrato un rapporto con loro, solo che nascono i figli. 
+
+14. Le razzie sono una scelta strategica praticabile o la principale attività del giocatore? Quali costi concreti hanno?
+Le razzie sono parte degli eventi possibili, sono incontri senza battaglia dove ottieni dei bonus ma mai uguali ad una vera battaglia. E i goblin ottengono provviste e si curano leggermente. Ogni tanto potrebbero avere fortuna e catturare una nuova specie o una mamma particolare nella razzia. 
+
+15. Qual è il livello di rappresentazione della violenza e quali temi maturi si vogliono mostrare o lasciare fuori campo?
+Niente sangue e dato che c'è la grafica 2d, attacchi, magie e altro fanno male, ma lascia tutto sottointeso. Anche i temi maturi come i rapporti tra goblin e le persone catturate. 
+
+16. Il giocatore deve sentirsi un conquistatore spietato, un capo pragmatico o qualcuno che può scegliere una linea politica? Il gioco non deve imporre tutte le interpretazioni, ma deve sapere quale fantasia mette in primo piano.
+Lasciare la fantasia al giocatore, anche se può averne molto poca. L'obiettivo è essere un armata speitata di goblin, non ci sono diplomazia o altre meccaniche simili. Tranne magari negli eventi, ma tutti sotterfugi per lo stesso obiettivo: conquistare il mondo.
+
+17. Il tono è tragico, satirico o alterna i due? Un riferimento tonale coerente aiuta scrittura, arte e marketing.
+principalemtne tragico, con un po' di stupidità dei goblin in generale che può saltare fuori dagli eventi.
+
+18. Qual è il budget/tempo realistico per creare arte, animazioni, audio e testi per ogni specie e job?
+Il budget al momento è fare un test con la IA. Vedere uno slice e usare asset gratis o prestaposto. Nulla di troppo costoso fino a che non trovo magari un artista con il quale fare una collaborazione per la creazione del gioco. Quindi anche tutto il resto segue la stessa ideologia. 
+
+19. La prima release è una campagna completa breve oppure una versione in accesso anticipato da ampliare?
+Accesso anticipato al primo atto, quindi il primo boss. 
+Poi una volta tirati su fondi o altro, arriviamo fino alla fine.
+
+20. Quali lingue e funzionalità di accessibilità sono previste per la prima release?
+Italiano e inglese perchè sono le uniche che capisco al momento.
+Accessibilità da valutare bene, non saprei cosa mettere.
+
+21. La futura eventualità multiplayer è soltanto una possibilità di prodotto o influenza davvero il design? Per ora è più sano trattarla come possibilità remota, senza spendere complessità per supportarla.
+
+esatto.
