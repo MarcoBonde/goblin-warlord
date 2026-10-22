@@ -68,7 +68,7 @@ La campagna si sviluppa in tre atti su una mappa di nodi in stile *Slay the Spir
 - I nodi dedicati permettono di creare nuovi goblin usando le conoscenze/specie e i job disponibili. Il loro scopo è offrire membri al roster/party; se la panchina è piena, il giocatore deve sostituire un membro o rinunciare alla nuova unità.
 - I rapporti di forza e le caratteristiche specie/job devono essere leggibili e creare scelte; non ogni combinazione richiede una regola o un'animazione esclusiva.
 
-**Job e classi:** il sistema prende ispirazione dalla varietà di ruoli di un gruppo fantasy. Il prototipo iniziale include almeno **Guerriero, Barbaro, Chierico e Stregone**; l'Accesso Anticipato aggiunge classi solo in quantità compatibile con il tempo di produzione. Classi future possibili: Ranger, Monaco, Paladino, Pistolero, Cavaliere, Mago, Ladro, Ninja, Samurai, Necromante, Psionico, Morfico, Druido, Evocatore ed Elementalista.
+**Job e classi:** il sistema prende ispirazione dalla varietà di ruoli di un gruppo fantasy. Il documento [CLASSI_E_ABILITA.md](./CLASSI_E_ABILITA.md) raccoglie i kit proposti per le 28 classi richieste, suddivise in Base, Avanzate, Alternative e Ibride. Ogni kit definisce attacco base, abilità spam, ultimate automatica, passiva e idee di tratti sbloccabili; è il riferimento di design da cui selezionare e prototipare, non una promessa che tutte le classi saranno presenti nel gioco. Il prototipo iniziale include almeno **Guerriero, Barbaro, Chierico e Stregone**; l'Accesso Anticipato aggiunge classi solo in quantità compatibile con il tempo di produzione.
 
 **Specie di partenza e progressione:** il roster iniziale è goblin; nuove specie e peculiarità si scoprono affrontando nemici e attraverso eventi. Limitare il numero di specie/job implementati per l'Accesso Anticipato in base agli asset e al tempo disponibili.
 
@@ -79,11 +79,7 @@ La campagna si sviluppa in tre atti su una mappa di nodi in stile *Slay the Spir
 - Le posizioni influiscono su chi viene attaccato per primo, sul percorso che i nemici devono attraversare per raggiungere i personaggi più arretrati e sulle sinergie di vicinanza.
 - Alcuni job possono avere posizioni preferite; posizione e/o artefatti globali possono modificare tratti o abilità attive. Queste regole sono candidate da prototipare, non vanno aggiunte tutte contemporaneamente.
 - Ogni personaggio segue una struttura di **attacco base + abilità caratteristica a cooldown breve + abilità potente a cooldown lungo**. Gli attacchi base e i cooldown devono risultare leggibili e bilanciabili.
-- Esempi per il prototipo:
-  - **Guerriero:** Strike (attacco base), Taunt (attira gli attacchi), Shield Bash (stordisce un nemico).
-  - **Barbaro:** Strike, Rage (più danno e mitigazione, meno armatura), Double Strike (secondo colpo al 50% del danno).
-  - **Chierico:** Holy Flame (attacco a distanza), Heal (cura un alleato), Resurrection (rianima al 30% della salute con cooldown lungo).
-  - **Stregone:** Static Shock (attacco base), Fireball (danno ad area), Meditation (potenzia il prossimo attacco magico, anche su sé stesso).
+- Per i kit e gli effetti candidati si usa [CLASSI_E_ABILITA.md](./CLASSI_E_ABILITA.md), mantenendo le abilità automatiche e i bersagli coerenti con il combattimento senza input. Per il primo prototipo, i kit di **Guerriero, Barbaro, Chierico e Stregone** forniscono la base da testare: rispettivamente *Colpo d'arma / Provocazione / Muro di scudi*, *Fendente furioso / Rabbia / Turbine selvaggio*, *Fiamma sacra / Cura / Rianimazione* e *Scarica innata / Fiammata erratica / Eruzione del sangue* (attacco base / abilità spam / ultimate).
 - Statistiche di base: salute, attacco e difesa; velocità/ritmo di attacco e cooldown sono parametri del sistema di combattimento. Evitare altre statistiche finché non sono necessarie.
 - La presentazione deve rendere comprensibili posizioni, bersagli, attacchi, cooldown, abilità e sinergie; la battaglia deve poter essere letta senza microgestione.
 - Gli oggetti, le specie, i job, la formazione e gli artefatti globali sono le leve di preparazione. L'abilità del giocatore consiste nel prevedere l'incontro e costruire una configurazione coerente.
@@ -201,6 +197,7 @@ Un warlord goblin avvia una marcia di conquista verso la capitale, attraversando
 
 - Creare il progetto Godot 4 e una scena di battaglia leggibile usando placeholder e asset gratuiti.
 - Definire le risorse dati di personaggio, specie, job, abilità e oggetti.
+- Usare i kit di Guerriero, Barbaro, Chierico e Stregone proposti in [CLASSI_E_ABILITA.md](./CLASSI_E_ABILITA.md) per il prototipo; verificare che ruolo, bersagli, frequenza delle abilità e cooldown siano distinguibili e leggibili.
 - Sperimentare party schierato massimo cinque, panchina fino a cinque, partenze da uno o due goblin e warlord con conoscenze iniziali differenti.
 - Implementare attacchi a ritmo autonomo e cooldown per abilità; nessun input del giocatore durante lo scontro.
 - Provare le posizioni: priorità dei bersagli, accesso ai personaggi arretrati, posizione preferita e una sinergia di vicinanza.
@@ -216,6 +213,7 @@ Un warlord goblin avvia una marcia di conquista verso la capitale, attraversando
 - Aggiungere level up dei goblin e ricompense che crescono con la progressione mantenendo valori numerici bassi.
 - Provare creazione di nuovi goblin e peculiarità ereditate dalla linea materna.
 - Provare sblocco di tratti di classe tramite uso delle abilità e vittorie con warlord specifici.
+- Selezionare dal documento [CLASSI_E_ABILITA.md](./CLASSI_E_ABILITA.md) pochi tratti sbloccabili per classe e provarli prima di espandere il catalogo.
 
 **Uscita:** sconfiggere un incontro modifica le opzioni del party; il party schierato resta entro cinque unità e la panchina entro cinque riserve.
 
