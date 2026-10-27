@@ -377,14 +377,14 @@ Le domande seguenti riguardano la direzione, non impongono di rispondere ora all
 
 | ID | Feedback richiesto | Campo per la risposta |
 |---|---|---|
-| F01 | Approvi Guerriero, Barbaro, Ranger, Chierico, Stregone e Ladro come le sei classi da progettare per demo/MVP? | Da compilare |
-| F02 | Quattro attivi è la nuova direzione da adottare o un'ipotesi da confrontare con cinque? Quale limite delle riserve vuoi mantenere o affidare alla valutazione? | Da compilare |
-| F03 | Il Warlord deve restare esterno alla formazione? Possiamo esplorare un suo ruolo attivo mantenendo non confermata la risorsa Autorità? | Da compilare |
-| F04 | Vuoi che la suprema a carica sostituisca il cooldown, oppure che la Fase B confronti le due soluzioni prima della scelta? | Da compilare |
-| F05 | Gli stadi evolutivi sono una caratteristica desiderata o vanno inclusi soltanto se risultano distinti e utili rispetto a livelli e tratti? | Da compilare |
-| F06 | Esistono nomi/lore di specie materne non presenti nei file? In assenza di altri materiali, possiamo proporre il piccolo catalogo indicato in §8.3 senza attribuirgli uno stato già confermato? | Da compilare |
-| F07 | I kit storici alternativi — Shield Bash, Doppio colpo, Fireball/Meditation — vanno mantenuti come candidati, oppure preferisci usare come base esclusiva quelli di S2? | Da compilare |
-| F08 | Confermi che la prima release pubblica rimane l'atto uno in Accesso Anticipato e che la demo deve essere progettata come fase distinta? | Da compilare |
+| F01 | Approvi Guerriero, Barbaro, Ranger, Chierico, Stregone e Ladro come le sei classi da progettare per demo/MVP? | Approvo |
+| F02 | Quattro attivi è la nuova direzione da adottare o un'ipotesi da confrontare con cinque? Quale limite delle riserve vuoi mantenere o affidare alla valutazione? | Voglio tenere 4 goblin in campo per non rendere troppo pesante e lento il turno di gameplay e mettere in difficoltà il giocatore. Mentre la riserva vogio tenerla da altri 3 massimo (anche se in questa prima fase saranno 2 dato le classi) |
+| F03 | Il Warlord deve restare esterno alla formazione? Possiamo esplorare un suo ruolo attivo mantenendo non confermata la risorsa Autorità? | Il warlord resta all'esterno e grazie ad esso si ottengono passive ed è lui che comanda |
+| F04 | Vuoi che la suprema a carica sostituisca il cooldown, oppure che la Fase B confronti le due soluzioni prima della scelta? | Si sostituzione |
+| F05 | Gli stadi evolutivi sono una caratteristica desiderata o vanno inclusi soltanto se risultano distinti e utili rispetto a livelli e tratti? | caratteristica desiderata che potrebbe sbloccare / aggiungere nuove abilità e possiblità che tuttavia non devono essere sviluppate adesso ma tenute in considerazione |
+| F06 | Esistono nomi/lore di specie materne non presenti nei file? In assenza di altri materiali, possiamo proporre il piccolo catalogo indicato in §8.3 senza attribuirgli uno stato già confermato? | Non sono ancora state fatte tutte le specie materne, puoi prendere ispirazione dalle razze più comuni fantasy e di Dungeon and dragons da giocatore, quelli civilizzati e umanoidi per generarne |
+| F07 | I kit storici alternativi — Shield Bash, Doppio colpo, Fireball/Meditation — vanno mantenuti come candidati, oppure preferisci usare come base esclusiva quelli di S2? | Quelli nuovi |
+| F08 | Confermi che la prima release pubblica rimane l'atto uno in Accesso Anticipato e che la demo deve essere progettata come fase distinta? | Confermo |
 
 ### Conclusione della Fase A
 
